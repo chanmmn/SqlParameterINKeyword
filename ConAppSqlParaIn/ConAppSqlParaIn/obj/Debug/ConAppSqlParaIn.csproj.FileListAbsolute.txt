@@ -1,0 +1,7 @@
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\bin\Debug\ConAppSqlParaIn.exe.config
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\bin\Debug\ConAppSqlParaIn.exe
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\bin\Debug\ConAppSqlParaIn.pdb
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\obj\Debug\ConAppSqlParaIn.csprojAssemblyReference.cache
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\obj\Debug\ConAppSqlParaIn.csproj.CoreCompileInputs.cache
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\obj\Debug\ConAppSqlParaIn.exe
+D:\test\other\SqlData\ConAppSqlParaIn\ConAppSqlParaIn\obj\Debug\ConAppSqlParaIn.pdb
